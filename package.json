@@ -1,0 +1,16 @@
+{
+  "name": "js-project-sandbox",
+  "version": "0.1.0",
+  "description": "JS Project sandbox with test",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha ./tests --reporter spec"
+  },
+  "author": "Michal Bureš",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.0.2"
+  },
+  "dependencies": {
+  }
+}
